@@ -1,14 +1,10 @@
 # PumpSwap Volume Bot
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Solana](https://img.shields.io/badge/Solana-362783?style=flat&logo=solana&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.2.0-blue)
-
 **PumpSwap Volume Bot** is a high-performance tool designed to **generate trading volume on PumpSwap and PumpFun**, with full support for Raydium's CPMM and OpenBook as well. Whether you're launching a new token or increasing your market visibility, this bot makes it easy to create realistic and sustainable **PumpSwap volume** through automated buy and sell transactions.
 
 Join our community at: https://discord.gg/solana-scripts
 
-or just DM me directly: https://t.me/benorizz0
+or just DM me directly: [michalstefanow](https://t.me/mylord1_1)
 
 
 
@@ -97,7 +93,7 @@ Before generating PumpSwap volume, ensure you have:
 
 ```bash
 # Clone the PumpSwap volume bot repo
-git clone https://github.com/cicere/pumpswap-volume-bot.git
+git clone https://github.com/michalstefanow/pumpswap-volume-bot.git
 cd pumpswap-volume-bot
 
 # Install dependencies
